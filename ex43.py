@@ -83,7 +83,7 @@ class CentralCorridor(Scene):
 					slide right as the Gothon's blaster cranks
 					past your head. In the middle of your artf
 					your foot slips and you bang your head on 
-					wall and pass out. You wake up shortly aft
+					wall and pass out. You wake up shortly after
 					die as the Gothon stomps on your head and 																									
 				"""))
 
